@@ -1,0 +1,8 @@
+﻿  Slots - Nerys (Bryn) Thamm.cpp
+c:\users\bryn\onedrive\summatives\slotmachinesubmissionrepo\2020-04-03-gd1p01-mini project-nerys(bryn)thamm\source - nerys (bryn) thamm\slots\slots - nerys (bryn) thamm.cpp(19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\bryn\onedrive\summatives\slotmachinesubmissionrepo\2020-04-03-gd1p01-mini project-nerys(bryn)thamm\source - nerys (bryn) thamm\slots\slots - nerys (bryn) thamm.cpp(93): warning C4129: '_': unrecognized character escape sequence
+c:\users\bryn\onedrive\summatives\slotmachinesubmissionrepo\2020-04-03-gd1p01-mini project-nerys(bryn)thamm\source - nerys (bryn) thamm\slots\slots - nerys (bryn) thamm.cpp(257): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 86 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Slots.vcxproj -> C:\Users\Bryn\OneDrive\Summatives\SlotMachineSubmissionRepo\2020-04-03-GD1P01-Mini Project-Nerys(Bryn)Thamm\Source - Nerys (Bryn) Thamm\x64\Release\Slots.exe
